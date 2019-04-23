@@ -1,27 +1,12 @@
-# Website
+Photos of food like in pinterest
+Click photo -> fall into recipe 
+User can:
++ add this recipe by logging in his account
++ like and comment recipe
+share own recipe through input fields
+search recipe by ingredients
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+#Beautiful description:
+Our project will be based on developing a site, which will create an absolute new experience of cooking, sharing your recipes, photos of your culinary art and broadening your cooking skills.
+The main step a user will go through is a process of registration, which will make you a member of the community and create an access to sharing and posting anything food related. The unique search engine will give an opportunity to type in the available ingredients, which further will be combined in the available recipes, making a cooking process even easier without a need of purchasing some specific products.
+The range of available items will vary from deserts and savory snacks to healthy lifestyle food, making this site a wholesome tool in the net. 
