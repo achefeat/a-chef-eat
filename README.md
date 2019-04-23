@@ -1,10 +1,10 @@
-Photos of food like in pinterest
-Click photo -> fall into recipe 
-User can:
+Photos of food like in pinterest. 
+#Click photo -> fall into recipe 
+#User can:
 + add this recipe by logging in his account
 + like and comment recipe
-share own recipe through input fields
-search recipe by ingredients
++ share own recipe through input fields
++ search recipe by ingredients
 
 #Beautiful description:
 Our project will be based on developing a site, which will create an absolute new experience of cooking, sharing your recipes, photos of your culinary art and broadening your cooking skills.
